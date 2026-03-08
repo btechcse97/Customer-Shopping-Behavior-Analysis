@@ -58,6 +58,11 @@ HAVING SUM(o.quantity) > 600;
 * Certain products are ordered more frequently.
 * Customer behavior patterns can help businesses improve marketing strategies.
 
+
+## Power BI Dashboard
+
+![Customer Behavior Dashboard](screenshots/dashboard.png)
+
 ## Acknowledgment
 
 This project was developed by following tutorials from the YouTube channel - Amlan Mohanty. The tutorial provided guidance on data analysis concepts, SQL queries, and customer behavior analysis.
