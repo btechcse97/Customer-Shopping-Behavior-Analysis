@@ -21,8 +21,9 @@ The dataset used in this project contains information about:
 * Products
 * Orders
 * Quantity purchased
-
+  
 These datasets help analyze how customers interact with products and how frequently purchases are made.
+![Dataset Preview](screenshots/data_preview.png)
 
 ## Analysis Performed
 
