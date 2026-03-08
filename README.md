@@ -10,8 +10,8 @@ The analysis focuses on customer demographics, product categories, purchase amou
 ## Tools & Technologies Used
 
 * CSV Dataset
+* Jupyter Notebook - Python
 * SQL - PostGre
-* Jupyter Notebook
 * Power Bi
 
 ## Dataset Information
